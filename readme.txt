@@ -1,1 +1,2 @@
-you're stupid monkey, go to the Africa 
+you're stupid monkey, go to the Africa
+put a bitochek in your life
