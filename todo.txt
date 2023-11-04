@@ -1,1 +1,2 @@
 1. sleep
+2. eat
