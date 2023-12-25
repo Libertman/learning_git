@@ -1,10 +1,10 @@
-#**README FILE**
+# **README FILE**
 
 ---
 
 It's a test README FILE. Please, don't *kill* me after publication this file.
 
-##Coding
+## Coding
 
 It's a code, which solves all the problems:
 
